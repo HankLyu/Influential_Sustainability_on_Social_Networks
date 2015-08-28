@@ -1,5 +1,7 @@
 # Analysis social network
 
+This code is used in the paper _Influential Sustainability on Social Networks_.
+
 ## Four algorithms for analysis network
 
 Four C++ files for deciding the putting seeds and time.
