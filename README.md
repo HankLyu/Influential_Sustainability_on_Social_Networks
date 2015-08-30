@@ -1,6 +1,6 @@
 # Analysis social network
 
-This code is used in the paper _Influential Sustainability on Social Networks_.
+This code is used in the simulation of the paper entitled "Influential Sustainability on Social Networks", ICDM 2015
 
 ## Four algorithms for analysis network
 
